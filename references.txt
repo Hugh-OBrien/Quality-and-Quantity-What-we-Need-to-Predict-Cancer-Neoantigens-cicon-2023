@@ -1,0 +1,17 @@
+O’Donnell, T. J., Rubinsteyn, A. & Laserson, U. MHCflurry 2.0: Improved Pan-Allele Prediction of MHC Class I-Presented Peptides by Incorporating Antigen Processing. cels 11, 42-48.e7 (2020).
+
+Jurtz, V. et al. NetMHCpan-4.0: Improved Peptide-MHC Class I Interaction Predictions Integrating Eluted Ligand and Peptide Binding Affinity Data. J Immunol 199, 3360–3368 (2017).
+
+Gfeller, D. et al. Predictions of immunogenicity reveal potent SARS-CoV-2 CD8+ T-cell epitopes. 2022.05.23.492800 Preprint at https://doi.org/10.1101/2022.05.23.492800 (2022).
+
+Albert, B. A. et al. Deep neural networks predict class I major histocompatibility complex epitope presentation and transfer learn neoepitope immunogenicity. Nat Mach Intell 1–12 (2023) doi:10.1038/s42256-023-00694-6.
+
+Jin, J. et al. Deep learning pan-specific model for interpretable MHC-I peptide binding prediction with improved attention mechanism. Proteins: Structure, Function, and Bioinformatics 89, 866–883 (2021).
+
+Calis, J. J. A. et al. Properties of MHC class I presented peptides that enhance immunogenicity. PLoS Comput Biol 9, e1003266 (2013).
+
+Holm, J. S. et al. Neoantigen-specific CD8 T cell responses in the peripheral blood following PD-L1 blockade might predict therapy outcome in metastatic urothelial carcinoma. Nat Commun 13, 1935 (2022).
+
+Koşaloğlu-Yalçın, Z. et al. The Cancer Epitope Database and Analysis Resource (CEDAR). Nucleic Acids Research gkac902 (2022) doi:10.1093/nar/gkac902.
+
+Wells, D. K. et al. Key Parameters of Tumor Epitope Immunogenicity Revealed Through a Consortium Approach Improve Neoantigen Prediction. Cell 183, 818-834.e13 (2020).
